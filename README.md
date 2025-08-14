@@ -2,7 +2,7 @@
 - I work on games in Godot
 - I am much more artistically talented than I am with code, but I can do both
 - Aromantic/Asexual (THOSE AREN'T PRONOUNS)
-- She/They (Those are pronouns)
+- They/them (Those are pronouns)
 
 <!---
 AceofFlips/AceofFlips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
