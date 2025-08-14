@@ -1,6 +1,6 @@
 - Hi! I'm Ace/Flippy/Flips/Madeleine. Yes, I have too many aliases. Yes, I will respond to all of them
 - I work on games in Godot
-- I am much more artistically talented than I am with code, but I can do both
+- I am much more artistically skilled than I am with code, but I can do both
 - Aromantic/Asexual (THOSE AREN'T PRONOUNS)
 - They/them (Those are pronouns)
 
